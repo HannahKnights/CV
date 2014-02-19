@@ -1,14 +1,14 @@
 CV
 =========
 
-Hannah Knights is a junior web developer based in London.
+Hannah Knights is a web developer based in London.
 
 ###Background
 
 
-An intrinsic love of making and building things brought me to learning to code. This passion prevails, alongside a desire to extend my capabilities in new languages, giving me more tools for the job. My fine art background lends me well to imagining the overall picture of applications and connecting the dots between front and back-end code. My interest stretches from deep back-end Ruby through to the interactions between the back-end logic and the user at the front-end. I believe in clean and concise code that functions efficiently to create smooth running applications. 
+An intrinsic love of making and building things brought me to learning to code. This passion prevails, alongside a desire to extend my capabilities in new languages, giving me more tools for the job. My fine art background lends me well to imagining the overall picture of applications and connecting the dots between front and back-end code. I believe in clean and concise code that functions efficiently to create smooth running applications. 
 
-I am looking to pick up new languages and extend my codebase, alongside strengthening the skills I already have. I am conscientious in my attention to learning new skills thoroughly and enjoy applying myself fully to any given task. 
+I am looking to master my knowledge of Ruby and JavaScript alongside broadening my experience of new languages and technologies. I am conscientious in my attention to learning new skills thoroughly and enjoy applying myself fully to any given task.
 
 
 ### Skills
@@ -26,7 +26,7 @@ I am looking to pick up new languages and extend my codebase, alongside strength
   - Twitter Bootstrap
   - WebSockets
   - User Authentication with bcrypt and Devise
-  - Facebook User Authentication with Devise OmniAuth
+  - Facebook/Twitter User Authentication with Devise OmniAuth
   - MailGun API with RestClient
   - API intigration including Stripe, Twilio, Graph API and Paperclip
   - Deployment with Heroku
