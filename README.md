@@ -1,4 +1,4 @@
-Hannah Knights
+CV
 =========
 
 Hannah Knights is a junior web developer based in London.
@@ -34,7 +34,7 @@ I am looking to pick up new languages and extend my codebase, alongside strength
   - Integration testing with Capybara
   - Version Control with GitHub
 
-##### Style
+#### Style
   
   - Test Driven Development
   - Object Orientated Programming
