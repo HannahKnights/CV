@@ -62,7 +62,7 @@ The learning I undertook at Makers Academy was driven by projects, testing one's
 
 Prior to joing Makers Academy my basic knowldege of front-end developing, hosting and deploying was self-taught. Although the practices and knowledge I have now leads me to want to re-code all my prior work, it was the beginnings of my excitement at the posibilities of coding.
 
-A selection includes; a portfolio website for artist [James Clarkson](http://james-clarkson.co.uk) (running on wordpress with my own template) and a website for contemporary art publication [line magazine](http://linemagazine.co.uk).
+A selection includes; a portfolio website for artist [James Clarkson](http://james-clarkson.co.uk)  running on wordpress with my own template, and a website for contemporary art publication [line magazine](http://linemagazine.co.uk).
 
 
 ### Education
